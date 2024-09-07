@@ -99,7 +99,7 @@ export const stats = [
   {
     id: "stats-3",
     title: "Training hours",
-    value: "350+",
+    value: "500+",
   },
 ];
 
